@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sagedragon.github.io/"/>
-  <updated>2018-01-29T06:34:00.586Z</updated>
+  <updated>2018-01-29T08:26:40.535Z</updated>
   <id>http://sagedragon.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一篇文章</title>
+    <link href="http://sagedragon.github.io/2018/01/29/new/"/>
+    <id>http://sagedragon.github.io/2018/01/29/new/</id>
+    <published>2018-01-29T07:16:34.009Z</published>
+    <updated>2018-01-29T08:26:40.535Z</updated>
+    
+    <content type="html"><![CDATA[<p>这个是内容</p><h2 id="111"><a href="#111" class="headerlink" title="111"></a>111</h2><h3 id="2222"><a href="#2222" class="headerlink" title="2222"></a>2222</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这个是内容&lt;/p&gt;
+&lt;h2 id=&quot;111&quot;&gt;&lt;a href=&quot;#111&quot; class=&quot;headerlink&quot; title=&quot;111&quot;&gt;&lt;/a&gt;111&lt;/h2&gt;&lt;h3 id=&quot;2222&quot;&gt;&lt;a href=&quot;#2222&quot; class=&quot;headerlink&quot; title=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
