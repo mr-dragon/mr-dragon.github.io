@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[5142],{8394:e=>{e.exports=JSON.parse('{"label":"GPT","permalink":"/blog/tags/gpt","allTagsPath":"/blog/tags","count":1}')}}]);
